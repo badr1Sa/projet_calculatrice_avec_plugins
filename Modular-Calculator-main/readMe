@@ -1,0 +1,1 @@
+on doit compiler les fonctionnalités à ajouter à l'application : javac -d src/main/resources/Plugins2/ src/main/java/oussama/it/modular_calculator/Command.java src/main/java/oussama/it/modular_calculator/Plugins/*.java
